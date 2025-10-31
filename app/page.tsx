@@ -112,7 +112,7 @@ export default function HomePage() {
   {/* Imagen de fondo */}
   <div className="absolute inset-0">
     <Image
-      src="/images/hero-lobo.jpg" 
+      src="/images/hero-lobo.jpg"
       alt="Lobo ibérico en su hábitat"
       fill
       priority
