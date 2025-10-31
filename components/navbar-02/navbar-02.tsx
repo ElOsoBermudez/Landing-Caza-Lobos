@@ -21,7 +21,7 @@ const Navbar02Page = () => {
           </div>
 
           <div className="flex items-center gap-3">
-            <Button>Apoyar</Button>
+            <Button>Apoyo</Button>
             <Button size="icon" variant="outline" onClick={toggleTheme} aria-label="Toggle theme">
               {theme === "dark" ? <MoonIcon /> : <SunIcon />}
             </Button>

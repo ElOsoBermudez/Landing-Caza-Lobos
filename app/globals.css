@@ -128,12 +128,3 @@ html {
 body {
   overscroll-behavior: none;
 }
-
-:root {
-  --font-serif: 'Cormorant Garamond', serif;
-}
-
-/* Vincular la clase de Tailwind `font-serif` a la variable */
-.font-serif {
-  font-family: var(--font-serif);
-}
